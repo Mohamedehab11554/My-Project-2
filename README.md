@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 - 🔭 I’m currently working on [Landing page](https://mohamedehab11554.github.io/My-Project-2/)
-![Screenshot 2023-10-08 021909](https://github.com/Mohamedehab11554/My-Project-2/assets/145847573/97bdf6b7-bafb-47b8-ac35-c0ca28ff4149)
+![Screenshot 2023-10-08 025412](https://github.com/Mohamedehab11554/My-Project-2/assets/145847573/26e3e238-7fe6-427c-b7c4-742a18d4c0c8)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://instagram.com/mohamedalprins1?igshid=ogq5zdc2odk2za%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mohamedalprins1?igshid=ogq5zdc2odk2za%3d%3d&utm_source=qr" height="30" width="40" /></a>
